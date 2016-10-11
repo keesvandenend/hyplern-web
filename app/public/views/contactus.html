@@ -1,0 +1,33 @@
+
+	<div class="container" ng-controller="ContactController">       
+		<div class="row row-content" ng-if="showContacts || showMap || showPhone">
+			<div class="col-xs-12">
+				<h3>Find Us</h3>
+				<hr>
+			</div>
+			<div class="col-xs-12 col-sm-4 col-sm-offset-1">
+				<h2>Links</h2>
+				<div ng-if="!showContacts">
+					<h3>{{message}}</h3>
+				</div>
+				<ul class="media-list" ng-if="showContacts">
+					<li class="media" ng-repeat="contact in contacts">
+						<div class="media-body">
+							<h3 class="media-heading">{{contact.name}}</h3>
+							<address style="font-size: 100%">
+								<a href="{{contact.weblink}}" target="_blank">{{contact.weblink}}</a>
+							</address>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="col-xs-12 col-sm-6 col-sm-offset-1">
+				<h5>Add Map</h5>
+			</div>
+		</div>
+		<!-- make sure there's room under the last row line -->
+		<div>
+			<br><br><br>
+		</div>
+	</div>
+

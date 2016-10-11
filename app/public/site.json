@@ -1,0 +1,1398 @@
+{
+	"websites": [
+		{
+			"id": 0,
+			"name": "HypLern",
+			"short": "A Classic Road To Learn Languages.",
+			"adline": "Learn Foreign Languages with an Interlinear or Pop-up translation!"
+		}
+	],
+	"titles": [
+		{
+			"menu": ["Home","Products","About","Address"],
+			"aboutus": "About Us",
+			"contactus": "Address",
+			"whoarewe": "Who Are We",
+			"ouraddress": "Find Us"
+		}
+	],
+	"stories": [
+		{
+			"id": 0,
+			"name": "Learn Fast And Easy",
+			"description1": "When reading our e-books or using our App the translation of every word is at your immediate disposal which makes learning with HypLern a fast and easy experience",
+			"description2": "Try them out for free and notice the fast expansion of your vocabulary while reading a foreign language from day one!",
+			"endline": ""
+		},
+		{
+			"id": 1,
+			"name": "A Bit Of History...",
+			"description1": "Two thousand years ago people learned their languages using interlinear translations.",
+			"description2": "We built on this classic experience and added a modern touch!",
+			"endline": ""
+		},
+		{
+			"id": 2,
+			"name": "What to expect!",
+			"description1": "We're working on adding the actual stories with optional interlinear or pop-up translation to the covers featured on this site.",
+			"description2": "Also we'll add a dashboard and points to enhance the experience.",
+			"endline": ""
+		}
+	],
+	"quotes": [],
+	"facts": [],
+	"contacts": [
+		{
+			"id": 0,
+			"name": "Download the Interactive App!",
+			"address1": "",
+			"address2": "",
+			"address3": "",
+			"phone": "",
+			"weblink": "https://learn-to-read-foreign-languages.com"
+		}
+	],
+	"avatars": [
+		{
+			"id": 0,
+			"name": "Who Are We",
+			"image": "images/ourapp1.png",
+			"role": "",
+			"abbr": "",
+			"description": "We are a group of software developers and language enthousiasts that are creating the ultimate language learning experience!"
+		},
+		{
+			"id": 1,
+			"name": "",
+			"image": "images/ourapp2.png",
+			"role": "",
+			"abbr": "",
+			"description": "Our new cross-platform App give you an immersive experience as a beginner or as an advanced reader through the optional interlinear or pop-up translation of every word, in it's correct context and conjugation."
+		}
+	],
+	"items": [
+		{
+			"id": 0,
+			"name": "Familie Stastok III",
+			"image": "images/FamilieStastokIII.jpg",
+			"thumb": "images/FamilieStastokIII_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 1,
+			"name": "Familie Stastok II",
+			"image": "images/FamilieStastokII.jpg",
+			"thumb": "images/FamilieStastokII_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 2,
+			"name": "Familie Stastok I",
+			"image": "images/FamilieStastokI.jpg",
+			"thumb": "images/FamilieStastokI_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 3,
+			"name": "Kamper Raadslieden",
+			"image": "images/KamperRaadslieden.jpg",
+			"thumb": "images/KamperRaadslieden_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 4,
+			"name": "Makelaar In Koffie",
+			"image": "images/MakelaarInKoffie.jpg",
+			"thumb": "images/MakelaarInKoffie_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 5,
+			"name": "Reuzen Uitgestorven",
+			"image": "images/ReuzenUitgestorven.jpg",
+			"thumb": "images/ReuzenUitgestorven_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 6,
+			"name": "Sara Burgerhart03en5",
+			"image": "images/SaraBurgerhart03en5.jpg",
+			"thumb": "images/SaraBurgerhart03en5_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 7,
+			"name": "Sara Burgerhart10en11",
+			"image": "images/SaraBurgerhart10en11.jpg",
+			"thumb": "images/SaraBurgerhart10en11_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 8,
+			"name": "Schelpengrot",
+			"image": "images/Schelpengrot.jpg",
+			"thumb": "images/Schelpengrot_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 9,
+			"name": "Verborgen Schat",
+			"image": "images/VerborgenSchat.jpg",
+			"thumb": "images/VerborgenSchat_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 10,
+			"name": "Weerter Rogstekers",
+			"image": "images/WeerterRogstekers.jpg",
+			"thumb": "images/WeerterRogstekers_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 11,
+			"name": "Witte Wieven",
+			"image": "images/WitteWieven.jpg",
+			"thumb": "images/WitteWieven_thumb.jpg",
+			"category": "Dutch",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 12,
+			"name": "ABC",
+			"image": "images/ABC.jpg",
+			"thumb": "images/ABC_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 13,
+			"name": "Blanche Neige",
+			"image": "images/BlancheNeige.jpg",
+			"thumb": "images/BlancheNeige_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 14,
+			"name": "DEFG",
+			"image": "images/DEFG.jpg",
+			"thumb": "images/DEFG_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 15,
+			"name": "Drame Au Bord De La Mer III",
+			"image": "images/DrameAuBordDeLaMerIII.jpg",
+			"thumb": "images/DrameAuBordDeLaMerIII_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 16,
+			"name": "Drame Au Bord De La Mer II",
+			"image": "images/DrameAuBordDeLaMerII.jpg",
+			"thumb": "images/DrameAuBordDeLaMerII_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 17,
+			"name": "Drame Au Bord De La Mer I",
+			"image": "images/DrameAuBordDeLaMerI.jpg",
+			"thumb": "images/DrameAuBordDeLaMerI_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 18,
+			"name": "HIJK",
+			"image": "images/HIJK.jpg",
+			"thumb": "images/HIJK_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 19,
+			"name": "La Confession",
+			"image": "images/LaConfession.jpg",
+			"thumb": "images/LaConfession_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 20,
+			"name": "LAM01LInconnue",
+			"image": "images/LAM01LInconnue.jpg",
+			"thumb": "images/LAM01LInconnue_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 21,
+			"name": "LAM02Trois Semaines",
+			"image": "images/LAM02TroisSemaines.jpg",
+			"thumb": "images/LAM02TroisSemaines_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 22,
+			"name": "LAM03Les Conditions",
+			"image": "images/LAM03LesConditions.jpg",
+			"thumb": "images/LAM03LesConditions_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 23,
+			"name": "LAM04La Lettre Finale",
+			"image": "images/LAM04LaLettreFinale.jpg",
+			"thumb": "images/LAM04LaLettreFinale_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 24,
+			"name": "LAM05Triste Exil",
+			"image": "images/LAM05TristeExil.jpg",
+			"thumb": "images/LAM05TristeExil_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 25,
+			"name": "LAM06Une Fille",
+			"image": "images/LAM06UneFille.jpg",
+			"thumb": "images/LAM06UneFille_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 26,
+			"name": "LAM07Une Affaire Meurtriere",
+			"image": "images/LAM07UneAffaireMeurtriere.jpg",
+			"thumb": "images/LAM07UneAffaireMeurtriere_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 27,
+			"name": "LAM08Confidence",
+			"image": "images/LAM08Confidence.jpg",
+			"thumb": "images/LAM08Confidence_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 28,
+			"name": "LAM09Le Malade",
+			"image": "images/LAM09LeMalade.jpg",
+			"thumb": "images/LAM09LeMalade_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 29,
+			"name": "LAM10La Passion",
+			"image": "images/LAM10LaPassion.jpg",
+			"thumb": "images/LAM10LaPassion_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 30,
+			"name": "LAM11Nouvelle Rencontre",
+			"image": "images/LAM11NouvelleRencontre.jpg",
+			"thumb": "images/LAM11NouvelleRencontre_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 31,
+			"name": "LAM12Bonheur",
+			"image": "images/LAM12Bonheur.jpg",
+			"thumb": "images/LAM12Bonheur_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 32,
+			"name": "La Rose Mousseuse",
+			"image": "images/LaRoseMousseuse.jpg",
+			"thumb": "images/LaRoseMousseuse_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 33,
+			"name": "La Ville Submergee",
+			"image": "images/LaVilleSubmergee.jpg",
+			"thumb": "images/LaVilleSubmergee_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 34,
+			"name": "Le Bonheur II",
+			"image": "images/LeBonheurII.jpg",
+			"thumb": "images/LeBonheurII_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 35,
+			"name": "Le Bonheur I",
+			"image": "images/LeBonheurI.jpg",
+			"thumb": "images/LeBonheurI_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 36,
+			"name": "Le Carnet De Danse",
+			"image": "images/LeCarnetDeDanse.jpg",
+			"thumb": "images/LeCarnetDeDanse_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 37,
+			"name": "Le Chat Et Le Renard",
+			"image": "images/LeChatEtLeRenard.jpg",
+			"thumb": "images/LeChatEtLeRenard_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 38,
+			"name": "Les Quatre Saisons",
+			"image": "images/LesQuatreSaisons.jpg",
+			"thumb": "images/LesQuatreSaisons_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 39,
+			"name": "Les Trois Citrons",
+			"image": "images/LesTroisCitrons.jpg",
+			"thumb": "images/LesTroisCitrons_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 40,
+			"name": "Les Trois Ours",
+			"image": "images/LesTroisOurs.jpg",
+			"thumb": "images/LesTroisOurs_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 41,
+			"name": "Les Trois Souhaits",
+			"image": "images/LesTroisSouhaits.jpg",
+			"thumb": "images/LesTroisSouhaits_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 42,
+			"name": "LMN",
+			"image": "images/LMN.jpg",
+			"thumb": "images/LMN_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 43,
+			"name": "OP",
+			"image": "images/OP.jpg",
+			"thumb": "images/OP_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 44,
+			"name": "QRS",
+			"image": "images/QRS.jpg",
+			"thumb": "images/QRS_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 45,
+			"name": "Souvenir",
+			"image": "images/Souvenir.jpg",
+			"thumb": "images/Souvenir_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 46,
+			"name": "TU",
+			"image": "images/TU.jpg",
+			"thumb": "images/TU_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 47,
+			"name": "Un Bain",
+			"image": "images/UnBain.jpg",
+			"thumb": "images/UnBain_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 48,
+			"name": "VXYZ",
+			"image": "images/VXYZ.jpg",
+			"thumb": "images/VXYZ_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 49,
+			"name": "Walter Schnaffs II",
+			"image": "images/WalterSchnaffsII.jpg",
+			"thumb": "images/WalterSchnaffsII_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 50,
+			"name": "Walter Schnaffs I",
+			"image": "images/WalterSchnaffsI.jpg",
+			"thumb": "images/WalterSchnaffsI_thumb.jpg",
+			"category": "French",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 51,
+			"name": "Abgeschossen",
+			"image": "images/Abgeschossen.jpg",
+			"thumb": "images/Abgeschossen_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 52,
+			"name": "Aschenputtel",
+			"image": "images/Aschenputtel.jpg",
+			"thumb": "images/Aschenputtel_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 53,
+			"name": "Bruderchen Und Schwesterchen",
+			"image": "images/BruderchenUndSchwesterchen.jpg",
+			"thumb": "images/BruderchenUndSchwesterchen_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 54,
+			"name": "Das Urteil",
+			"image": "images/DasUrteil.jpg",
+			"thumb": "images/DasUrteil_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 55,
+			"name": "Daumesdick",
+			"image": "images/Daumesdick.jpg",
+			"thumb": "images/Daumesdick_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 56,
+			"name": "Die Bremer Stadtmusikanten",
+			"image": "images/DieBremerStadtmusikanten.jpg",
+			"thumb": "images/DieBremerStadtmusikanten_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 57,
+			"name": "Die Gansemagd",
+			"image": "images/DieGansemagd.jpg",
+			"thumb": "images/DieGansemagd_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 58,
+			"name": "Die Rube",
+			"image": "images/DieRube.jpg",
+			"thumb": "images/DieRube_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 59,
+			"name": "Im Sonnenschein II",
+			"image": "images/ImSonnenscheinII.jpg",
+			"thumb": "images/ImSonnenscheinII_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 60,
+			"name": "Im Sonnenschein I",
+			"image": "images/ImSonnenscheinI.jpg",
+			"thumb": "images/ImSonnenscheinI_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 61,
+			"name": "Schakale Und Araber",
+			"image": "images/SchakaleUndAraber.jpg",
+			"thumb": "images/SchakaleUndAraber_thumb.jpg",
+			"category": "German",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 62,
+			"name": "A Debreceni Csordas",
+			"image": "images/ADebreceniCsordas.jpg",
+			"thumb": "images/ADebreceniCsordas_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 63,
+			"name": "A Lofio",
+			"image": "images/ALofio.jpg",
+			"thumb": "images/ALofio_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 64,
+			"name": "A Pilota",
+			"image": "images/APilota.jpg",
+			"thumb": "images/APilota_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 65,
+			"name": "A Vegek Julija",
+			"image": "images/AVegekJulija.jpg",
+			"thumb": "images/AVegekJulija_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 66,
+			"name": "Az Elegtetel",
+			"image": "images/AzElegtetel.jpg",
+			"thumb": "images/AzElegtetel_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 67,
+			"name": "Goodness Begets Goodness",
+			"image": "images/GoodnessBegetsGoodness.jpg",
+			"thumb": "images/GoodnessBegetsGoodness_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 68,
+			"name": "Invisible Shepherd Boy",
+			"image": "images/InvisibleShepherdBoy.jpg",
+			"thumb": "images/InvisibleShepherdBoy_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 69,
+			"name": "Not True",
+			"image": "images/NotTrue.jpg",
+			"thumb": "images/NotTrue_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 70,
+			"name": "The Charmed Frog",
+			"image": "images/TheCharmedFrog.jpg",
+			"thumb": "images/TheCharmedFrog_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 71,
+			"name": "The Dwarfs Name",
+			"image": "images/TheDwarfsName.jpg",
+			"thumb": "images/TheDwarfsName_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 72,
+			"name": "The Lovers Ghost",
+			"image": "images/TheLoversGhost.jpg",
+			"thumb": "images/TheLoversGhost_thumb.jpg",
+			"category": "Hungarian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 73,
+			"name": "Bella Addormentata II",
+			"image": "images/BellaAddormentataII.jpg",
+			"thumb": "images/BellaAddormentataII_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 74,
+			"name": "Bella Addormentata I",
+			"image": "images/BellaAddormentataI.jpg",
+			"thumb": "images/BellaAddormentataI_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 75,
+			"name": "Dei Tedeschi",
+			"image": "images/DeiTedeschi.jpg",
+			"thumb": "images/DeiTedeschi_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 76,
+			"name": "Due Sposi",
+			"image": "images/DueSposi.jpg",
+			"thumb": "images/DueSposi_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 77,
+			"name": "Nei Boschi",
+			"image": "images/NeiBoschi.jpg",
+			"thumb": "images/NeiBoschi_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 78,
+			"name": "Pelle DAsino III",
+			"image": "images/PelleDAsinoIII.jpg",
+			"thumb": "images/PelleDAsinoIII_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 79,
+			"name": "Pelle DAsino II",
+			"image": "images/PelleDAsinoII.jpg",
+			"thumb": "images/PelleDAsinoII_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 80,
+			"name": "Pelle DAsino I",
+			"image": "images/PelleDAsinoI.jpg",
+			"thumb": "images/PelleDAsinoI_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 81,
+			"name": "Puccettino II",
+			"image": "images/PuccettinoII.jpg",
+			"thumb": "images/PuccettinoII_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 82,
+			"name": "Puccettino I",
+			"image": "images/PuccettinoI.jpg",
+			"thumb": "images/PuccettinoI_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 83,
+			"name": "Un Regalo",
+			"image": "images/UnRegalo.jpg",
+			"thumb": "images/UnRegalo_thumb.jpg",
+			"category": "Italian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 84,
+			"name": "Apothecary",
+			"image": "images/Apothecary.jpg",
+			"thumb": "images/Apothecary_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 85,
+			"name": "Baba Yaga",
+			"image": "images/BabaYaga.jpg",
+			"thumb": "images/BabaYaga_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 86,
+			"name": "Bet",
+			"image": "images/Bet.jpg",
+			"thumb": "images/Bet_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 87,
+			"name": "Carriage",
+			"image": "images/Carriage.jpg",
+			"thumb": "images/Carriage_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 88,
+			"name": "Chudesnaya Rubashka",
+			"image": "images/ChudesnayaRubashka.jpg",
+			"thumb": "images/ChudesnayaRubashka_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 89,
+			"name": "Gusi Lebedi",
+			"image": "images/GusiLebedi.jpg",
+			"thumb": "images/GusiLebedi_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 90,
+			"name": "Korolevich",
+			"image": "images/Korolevich.jpg",
+			"thumb": "images/Korolevich_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 91,
+			"name": "Lady",
+			"image": "images/Lady.jpg",
+			"thumb": "images/Lady_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 92,
+			"name": "Nikita",
+			"image": "images/Nikita.jpg",
+			"thumb": "images/Nikita_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 93,
+			"name": "Sneguroshka",
+			"image": "images/Sneguroshka.jpg",
+			"thumb": "images/Sneguroshka_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 94,
+			"name": "Yelena",
+			"image": "images/Yelena.jpg",
+			"thumb": "images/Yelena_thumb.jpg",
+			"category": "Russian",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 95,
+			"name": "Cuatro Hermanos",
+			"image": "images/CuatroHermanos.jpg",
+			"thumb": "images/CuatroHermanos_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 96,
+			"name": "Cuento Del Pollo",
+			"image": "images/CuentoDelPollo.jpg",
+			"thumb": "images/CuentoDelPollo_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 97,
+			"name": "Don Juan Bolondron",
+			"image": "images/DonJuanBolondron.jpg",
+			"thumb": "images/DonJuanBolondron_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 98,
+			"name": "El Caballo De Aliatar",
+			"image": "images/ElCaballoDeAliatar.jpg",
+			"thumb": "images/ElCaballoDeAliatar_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 99,
+			"name": "El Palacio De Madrid",
+			"image": "images/ElPalacioDeMadrid.jpg",
+			"thumb": "images/ElPalacioDeMadrid_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 100,
+			"name": "El Principe Jalma",
+			"image": "images/ElPrincipeJalma.jpg",
+			"thumb": "images/ElPrincipeJalma_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 101,
+			"name": "El Principe Oso",
+			"image": "images/ElPrincipeOso.jpg",
+			"thumb": "images/ElPrincipeOso_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 102,
+			"name": "Hombre Insaciable",
+			"image": "images/HombreInsaciable.jpg",
+			"thumb": "images/HombreInsaciable_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 103,
+			"name": "La Buenaventura III",
+			"image": "images/LaBuenaventuraIII.jpg",
+			"thumb": "images/LaBuenaventuraIII_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 104,
+			"name": "La Buenaventura II",
+			"image": "images/LaBuenaventuraII.jpg",
+			"thumb": "images/LaBuenaventuraII_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 105,
+			"name": "La Buenaventura I",
+			"image": "images/LaBuenaventuraI.jpg",
+			"thumb": "images/LaBuenaventuraI_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 106,
+			"name": "La Corneta De Llaves II",
+			"image": "images/LaCornetaDeLlavesII.jpg",
+			"thumb": "images/LaCornetaDeLlavesII_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 107,
+			"name": "La Corneta De Llaves I",
+			"image": "images/LaCornetaDeLlavesI.jpg",
+			"thumb": "images/LaCornetaDeLlavesI_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 108,
+			"name": "Las Dos Glorias",
+			"image": "images/LasDosGlorias.jpg",
+			"thumb": "images/LasDosGlorias_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 109,
+			"name": "Los Tres Barcos",
+			"image": "images/LosTresBarcos.jpg",
+			"thumb": "images/LosTresBarcos_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 110,
+			"name": "Los Tres Osos",
+			"image": "images/LosTresOsos.jpg",
+			"thumb": "images/LosTresOsos_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 111,
+			"name": "Porteria Del Cielo",
+			"image": "images/PorteriaDelCielo.jpg",
+			"thumb": "images/PorteriaDelCielo_thumb.jpg",
+			"category": "Spanish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 112,
+			"name": "Ada",
+			"image": "images/Ada.jpg",
+			"thumb": "images/Ada_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 113,
+			"name": "Adolf",
+			"image": "images/Adolf.jpg",
+			"thumb": "images/Adolf_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 114,
+			"name": "Bromsen",
+			"image": "images/Bromsen.jpg",
+			"thumb": "images/Bromsen_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 115,
+			"name": "Chapmans Mormor",
+			"image": "images/ChapmansMormor.jpg",
+			"thumb": "images/ChapmansMormor_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 116,
+			"name": "Chapman",
+			"image": "images/Chapman.jpg",
+			"thumb": "images/Chapman_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 117,
+			"name": "Farbror Teodar",
+			"image": "images/FarbrorTeodar.jpg",
+			"thumb": "images/FarbrorTeodar_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 118,
+			"name": "Jattens Namn",
+			"image": "images/JattensNamn.jpg",
+			"thumb": "images/JattensNamn_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 119,
+			"name": "Kidney And Bacon",
+			"image": "images/KidneyAndBacon.jpg",
+			"thumb": "images/KidneyAndBacon_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 120,
+			"name": "Klockaren",
+			"image": "images/Klockaren.jpg",
+			"thumb": "images/Klockaren_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 121,
+			"name": "Lata Konungadottern",
+			"image": "images/LataKonungadottern.jpg",
+			"thumb": "images/LataKonungadottern_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 122,
+			"name": "Ledsna Drottningen",
+			"image": "images/LedsnaDrottningen.jpg",
+			"thumb": "images/LedsnaDrottningen_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 123,
+			"name": "Lovgrodan",
+			"image": "images/Lovgrodan.jpg",
+			"thumb": "images/Lovgrodan_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 124,
+			"name": "Starka Pojken",
+			"image": "images/StarkaPojken.jpg",
+			"thumb": "images/StarkaPojken_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 125,
+			"name": "Stugan Av Ostar",
+			"image": "images/StuganAvOstar.jpg",
+			"thumb": "images/StuganAvOstar_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		},
+		{
+			"id": 126,
+			"name": "Tre Trollpackorna",
+			"image": "images/TreTrollpackorna.jpg",
+			"thumb": "images/TreTrollpackorna_thumb.jpg",
+			"category": "Swedish",
+			"label": "",
+			"price": "none",
+			"description": ""
+		}
+	],
+	"categories": [
+		{
+			"id": 1,
+			"name": "Dutch",
+			"image": "images/DutchLanguage.jpg"
+		},
+		{
+			"id": 2,
+			"name": "French",
+			"image": "images/FrenchLanguage.jpg"
+		},
+		{
+			"id": 3,
+			"name": "German",
+			"image": "images/GermanLanguage.jpg"
+		},
+		{
+			"id": 4,
+			"name": "Hungarian",
+			"image": "images/HungarianLanguage.jpg"
+		},
+		{
+			"id": 5,
+			"name": "Italian",
+			"image": "images/ItalianLanguage.jpg"
+		},
+		{
+			"id": 6,
+			"name": "Russian",
+			"image": "images/RussianLanguage.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Spanish",
+			"image": "images/SpanishLanguage.jpg"
+		},
+		{
+			"id": 8,
+			"name": "Swedish",
+			"image": "images/SwedishLanguage.jpg"
+		}
+	],
+	"promotions": [],
+	"tables": [],
+	"variables": [
+		{
+			"barcolor": "",
+			"background": "yes",
+			"headerlogo": "",
+			"font": "script",
+			"opacity": "0.2"
+		}
+	]
+}

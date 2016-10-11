@@ -1,0 +1,49 @@
+
+	<div class="container" ng-controller="AboutController">        
+		<div class="row row-content" ng-if="showStories">
+			<div class="col-xs-12">
+				<h3>{{titles.aboutus}}</h3>
+				<hr>
+			</div>
+			<div class="col-xs-12">
+				<ul class="media-list">
+					<li class="media" ng-repeat="story in stories">
+						<h2>{{story.name}}</h2>
+						<p>{{story.description1}}</p>
+						<p>{{story.description2}}</p>
+						<footer>{{story.endline}}</footer>
+					</li>
+				</ul>
+			</div>
+		</div>
+     
+                
+		<div class="row row-content" ng-if="showAvatars">
+				<div ng-if="!showAvatars">
+					<h3>{{message}}</h3>
+				</div>
+				<ul class="media-list">
+					<li class="media" ng-repeat="avatar in avatars">
+                <div class="col-xs-12 col-sm-9 pull-right">
+						<div class="media-body">
+							<h2 class="media-heading">{{avatar.name}}</h2>
+							<h3>{{avatar.role}}</h3>
+							<p>{{avatar.description}}</p>
+						</div>
+						<br>
+                 </div>
+                <div class="col-xs-12 col-sm-3">
+						<div class="media-left">
+							<img class="media-object img-thumbnail"
+							ng-src={{avatar.image}} alt="{{avatar.name}}">
+						</div>
+                 </div>
+					</li>
+				</ul>
+
+		</div>
+		<!-- make sure there's room under the last row line -->
+		<div>
+<br><br><br>
+		</div>
+	</div>

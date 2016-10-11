@@ -1,0 +1,35 @@
+
+block content
+
+	#login.center-vertical
+		form.well(id='form-login', action='login', method='post', name='loginForm', ng-submit='submit()', ng-controller='FormsController')
+			h2 HypLern Login
+			h6 Please Login To Your Account
+			.form-group
+				label Username
+				input.form-control(type='text', id='user-tf', name='user', ng-model='login.name')
+			.form-group
+				label Password
+				input.form-control(type='password', id='pass-tf', name='pass', ng-model='login.pass')
+			.controls
+				button(type='button').btn.btn-default.button-rememember-me
+					span.glyphicon.glyphicon-unchecked.button-rememember-me-glyph
+					| Remember Me
+				button(type='submit').btn.btn-primary.button-sign-in
+					span.glyphicon.glyphicon-lock
+					| Sign In
+			.clearfix
+			hr
+			h6 Your user details were sent to you after payment on 
+				a.center(href='https://learn-to-read-foreign-languages.com', target='_blank') learn-to-read-foreign-languages.com
+			.clearfix
+
+	include modals/alert
+	include modals/lost-password
+
+block scripts
+
+	script(src='/js/views/login.js')
+	script(src='/js/controllers/loginController.js')
+	script(src='/js/form-validators/loginValidator.js')
+	script(src='/js/form-validators/emailValidator.js')

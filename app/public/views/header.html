@@ -1,0 +1,54 @@
+
+
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container" ng-controller="ContactController">
+			<div class="navbar-header" ng-style="{'background' : variables[0].barcolor}">
+				<a class="navbar-brand navbar-toplayer" ui-sref="app"><img src="images/logo.png" height=30 width=41></a>
+
+				<div class="navbar-middle">
+					<button class="navbar-toplayer btn btn-navbar navbar-inverse" type="button" ui-sref="app.login">
+						Account
+					</button>
+				</div>
+				<button type="button" class="navbar-toggle navbar-toplayer collapsed btn btn-navbar dropdown-toggle" data-toggle="collapse" data-target="#navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li data-toggle="collapse" data-target=".navbar-collapse.in"><a ui-sref="app">
+						<span class="glyphicon glyphicon-home"
+						aria-hidden="true"></span> {{titles.menu[0]}}</a></li>
+					<li data-toggle="collapse" data-target=".navbar-collapse.in"><a ui-sref="app.items">
+						<span class="glyphicon glyphicon-list-alt"
+						aria-hidden="true"></span> {{titles.menu[1]}}</a></li>
+					<li data-toggle="collapse" data-target=".navbar-collapse.in"><a ui-sref="app.aboutus">
+						<span class="glyphicon glyphicon-user"
+						aria-hidden="true"></span> {{titles.menu[2]}}</a></li>
+					<li data-toggle="collapse" data-target=".navbar-collapse.in"><a ui-sref="app.contactus">
+						<span class="glyphicon glyphicon-envelope"
+						aria-hidden="true"></span> {{titles.menu[3]}}</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>         
+               
+    <header class="jumbotron jumbotron-billboard" ng-controller="BasicController">
+    	<div class="img" ng-style="{'opacity' : variables[0].opacity, 'background' : variables[0].background}"></div>
+        <div class="container" ng-controller="BasicController">
+            <div class="row row-header">
+                <div class="col-xs-12 col-sm-8">
+                    <h1 ng-class="variables[0].font">{{website.name}}</h1>
+                    <p style="padding: 5px;"></p>
+                    <p style="margin-left: 40px;"><b>{{website.short}}</b></p>
+                </div>
+                <div ng-if="variables[0].headerlogo" class="col-xs-12 col-sm-4">
+                <p style="padding:10px;"></p>
+                <img src="images/logo.png" class="headerlogo img-responsive">
+                </div>
+            </div>
+        </div>
+    </header>

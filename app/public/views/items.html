@@ -1,0 +1,57 @@
+	<div class="container">
+        
+		<div class="row row-content" ng-controller="ItemsController">
+			<div class="col-xs-12" ng-if="!showItems">
+				<h3>{{message}}</h3>
+			</div>
+			<div class="col-xs-12" ng-if="showItems">
+				<!-- skip this for now, make optional <button ng-click="toggleDetails()" class="btn btn-xs btn-primary pull-right" type="button">
+					{{showDetails ? 'Hide Details':'Show Details'}}
+				</button> -->
+				
+				<!-- check mydata.tab saved by service -->
+				<!-- tab is {{tab}} -->
+				
+				<!-- tab navigation -->
+				<ul class="nav nav-tabs" role="tablist">
+
+					<li role="presentation"
+					ng-class="{active:isSelected($index+1)}" ng-repeat="category in categories">
+					<a ng-click="select($index+1)"
+					aria-controls="{{categories[$index].name}}" 
+					role="tab">{{categories[$index].name}}</a></li>
+				</ul>    
+				<!-- / tab navigation -->
+                
+				<div class="tab-content">
+					<ul class="media-list tab-pane fade in active">
+                        
+						<li class="media" ng-repeat="item in items | filter:filtText">
+							<div class="row row-header">
+								<div class="col-xs-12 col-sm-6">
+									<div class="media-left media-middle">
+										<a ui-sref="app.itemdetails({id: item.id})">
+											<img class="media-object img-thumbnail"
+											ng-src={{item.thumb}} alt={{item.name}}>
+										</a>
+									</div>
+								</div>
+							<div class="col-xs-12 col-sm-6">
+								<div class="media-body">
+									<h2 class="media-heading">{{item.name}}
+									<span class="label label-danger label-xs">{{item.label}}</span>
+									<span class="badge">{{item.price | currency}}</span></h2>
+									<p ng-show="showDetails">{{item.description}}</p>
+								</div>
+							</div>
+						</li>
+                        
+					</ul> 
+				</div>
+			</div>
+		</div>
+		<!-- make sure there's room under the last row line -->
+		<div>
+			<br><br><br>
+		</div>
+    </div>

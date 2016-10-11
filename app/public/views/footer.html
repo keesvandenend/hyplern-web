@@ -1,0 +1,33 @@
+	<footer class="row-footer">
+		<div class="container" ng-controller="ContactController">
+			<div class="row">             
+				<div class="col-xs-5 col-xs-offset-1 col-sm-2 col-sm-offset-1">
+					<h5>Links</h5>
+					<ul class="list-unstyled">
+						<li><a ui-sref="app">{{titles.menu[0]}}</a></li>
+						<li><a ui-sref="app.items">{{titles.menu[1]}}</a></li>
+						<li><a ui-sref="app.aboutus">{{titles.menu[2]}}</a></li>
+						<li><a ui-sref="app.contactus">{{titles.menu[3]}}</a></li>
+					</ul>
+				</div>
+				<div class="col-xs-6 col-sm-5">
+					<h5>{{titles.ouraddress}}</h5>
+					<address style="font-size: 100%">
+						<a href="{{contact.weblink}}" target="_blank">{{contact.weblink}}</a>
+					</address>
+				</div>
+				<div class="col-xs-12 col-sm-4">
+					<div class="nav navbar-nav" style="padding: 40px 10px;">
+						<a class="btn btn-social-icon btn-google-plus" href="https://plus.google.com/+LearntoreadforeignlanguagesatBermudaWord" target="_blank"><i class="fa fa-google-plus"></i></a>
+						<a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/bermudaword" target="_blank"><i class="fa fa-facebook"></i></a>
+						<a class="btn btn-social-icon btn-youtube" href="https://www.youtube.com/channel/UCGt78xgP4VVMtWwZtWIWDTQ" target="_blank"><i class="fa fa-youtube"></i></a>
+						<a class="btn btn-social-icon" href="mailto:info@bermudaword.com" target="_blank"><i class="fa fa-envelope-o"></i></a>
+					</div>
+				</div>
+				<div class="col-xs-12">
+					<p style="padding:10px;"></p>
+					<p align=center>© Copyright 2016 Ittolaja Inc.</p>
+				</div>
+			</div>
+		</div>
+	</footer>
