@@ -9,6 +9,6 @@ This site has been created using the Ittolaja Angular-Bootstrap site generator, 
 
 Includes modified partial copy of node-login Copyright (c) 2013 Stephen Braitsch, which is being replaced by angular based user administration system. 
 
-Here is an example of the new Hyplern-Web application form:
+Here is an example of the new Hyplern-Web application form including percentage completed and current story keeping:
 
 <img src="Account-Form-Example.png"></img>
