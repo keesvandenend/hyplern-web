@@ -12,3 +12,9 @@ Includes modified partial copy of node-login Copyright (c) 2013 Stephen Braitsch
 Here is an example of the new Hyplern-Web application form with chosen language with a drop down to choose another language to study, including percentage completed for that language, and current story for that language, and finally a direct link to the current story via the image:
 
 <img src="Account-Form-Example.png"></img>
+
+
+Example of story in interlinear format (other formats possible are interlinear on-demand or pop-up):
+
+<img src="Story-Scroll-Example.png"></img>
+
