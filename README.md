@@ -1,9 +1,15 @@
 # hyplern-web
 
+<b>In progress</b>
+
+  <li>rewriting to ES6 syntax and using webpack</li>
+  <li>changing form and rendered poll to results bars</li>
+
+<b>Description</b>
+
 Single page application website in angular, bootstrap and jquery set up as showcase for the interlinear, interlinear on-demand and pop-up content of the HypLern reader e-books and apps.
 
 <img src="hyplern-web.png"></img>
-
 
 This site has been created using the Ittolaja Angular-Bootstrap site generator, currently batch file and perl script based. See the resulting site.json file in app/public. The next version of the hyplern-web site will be based on the next generation Ittolaja generator which will work through interactive web panels and MongoDB storage.
 
