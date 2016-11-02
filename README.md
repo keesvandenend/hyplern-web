@@ -2,7 +2,7 @@
 
 <b>In progress</b>
 
-  <li>rewriting code to ES6 syntax and using webpack</li>
+  <li>rewriting code to ES6 syntax and using webpack (with babel to transpile to 2015)</li>
   <li>changing form to include story and language progress</li>
 
 <b>Description</b>
