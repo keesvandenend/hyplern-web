@@ -3,7 +3,7 @@
 <b>In progress</b>
 
   <li>rewriting to ES6 syntax and using webpack</li>
-  <li>changing form and rendered poll to results bars</li>
+  <li>changing form to include story and language progress</li>
 
 <b>Description</b>
 
