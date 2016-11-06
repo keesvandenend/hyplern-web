@@ -31,8 +31,21 @@
  position:relative;
   z-index:2;
 }
+.link {
+    cursor: pointer;
+}
 .thumb {
   height: 100px;
+}
+.cover {
+  max-height: 800px;
+}
+.itemdetail-bookmark {
+  position: relative;
+  top: -40px;
+}
+.itemdetail-prestyled-text {
+  white-space:pre-wrap;
 }
 .img-thumbnail {
   height: 220px;

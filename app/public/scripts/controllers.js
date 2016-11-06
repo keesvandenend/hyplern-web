@@ -55,70 +55,12 @@ angular.module('websiteApp')
 		// categorize items
 		$scope.select = function(setTab) {
 			$scope.tab = setTab;
-
-			if (setTab === 1) {
-				$scope.filtText = $scope.categories[0].name;
-			}
-			else if (setTab === 2) {
-				$scope.filtText = $scope.categories[1].name;
-			}
-			else if (setTab === 3) {
-				$scope.filtText = $scope.categories[2].name;
-			}
-			else if (setTab === 4) {
-				$scope.filtText = $scope.categories[3].name;
-			}
-			else if (setTab === 5) {
-				$scope.filtText = $scope.categories[4].name;
-			}
-			else if (setTab === 6) {
-				$scope.filtText = $scope.categories[5].name;
-			}
-			else if (setTab === 7) {
-				$scope.filtText = $scope.categories[6].name;
-			}
-			else if (setTab === 8) {
-				$scope.filtText = $scope.categories[7].name;
-			}
-			else if (setTab === 9) {
-				$scope.filtText = $scope.categories[8].name;
-			}
-			else if (setTab === 10) {
-				$scope.filtText = $scope.categories[9].name;
-			}
-			else if (setTab === 11) {
-				$scope.filtText = $scope.categories[10].name;
-			}
-			else if (setTab === 12) {
-				$scope.filtText = $scope.categories[11].name;
-			}
-			else if (setTab === 13) {
-				$scope.filtText = $scope.categories[12].name;
-			}
-			else if (setTab === 14) {
-				$scope.filtText = $scope.categories[13].name;
-			}
-			else if (setTab === 15) {
-				$scope.filtText = $scope.categories[14].name;
-			}
-			else if (setTab === 16) {
-				$scope.filtText = $scope.categories[15].name;
-			}
-			else if (setTab === 17) {
-				$scope.filtText = $scope.categories[16].name;
-			}
-			else if (setTab === 18) {
-				$scope.filtText = $scope.categories[17].name;
-			}
-			else if (setTab === 19) {
-				$scope.filtText = $scope.categories[18].name;
-			}
-			else if (setTab === 20) {
-				$scope.filtText = $scope.categories[19].name;
-			}
-			else {
-				$scope.filtText = "";
-			}
+			$scope.filtText = "";
+                        for (let i=0; i < $scope.categories.length; i++) {
+                          if (setTab === (i+1)) {
+                          	$scope.filtText = $scope.categories[i].name;
+                          }
+                        }
 			$scope.mydata.tab = setTab;
 			datapassingService.set($scope.mydata);
 		};

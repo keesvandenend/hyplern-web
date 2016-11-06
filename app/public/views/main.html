@@ -10,7 +10,7 @@
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner" role="listbox">
 					<div class="item" ng-class="{active:$first}" ng-repeat="category in categories">
-						<img class="img-responsive center-block" src={{category.image}} alt={{category.name}} ng-click="selectCategory(category.id);" ui-sref="app.items({tab: category.id})">
+						<img class="img-responsive center-block link" src={{category.image}} alt={{category.name}} ng-click="selectCategory(category.id);" ui-sref="app.items({tab: category.id})">
 						<div class="carousel-caption">
 							<h3>{{category.name}}</h3>
 						</div>
